@@ -1,0 +1,6 @@
+{
+  "name": "SAARTHI",
+  "description": "Scholarship & Fellowship Management System for Scheduled Tribe students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
