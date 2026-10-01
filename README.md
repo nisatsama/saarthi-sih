@@ -1,7 +1,7 @@
 # SAARTHI — Scholarship & Fellowship Management System
 **Centralized Digital Platform for Scheduled Tribe Students**
 *Prototype Environment — Smart India Hackathon (SIH) Reference Architecture*
-[Live Link ] (https://saarthi-sih.nisatsama7547.workers.dev/)
+
 ---
 
 ## 1. Overview & Vision
@@ -91,15 +91,6 @@ Follow this step-by-step walkthrough to experience the complete lifecycle:
    - Inspect **Analytics** to view the live conversion funnel.
 
 ---
+## 5. Live Demo
+[Live Link ](https://saarthi-sih.nisatsama7547.workers.dev/)
 
-## 5. Technology Stack
-- **Frontend**: React 19, TypeScript, Vite, Tailwind CSS
-- **Design System**: Restrained Government & Public-Service Palette:
-  - Primary Navy: `#123B5D`
-  - Primary Blue: `#176B87`
-  - Forest Green: `#247A5A`
-  - Deep Green: `#185C46`
-  - Bridge Teal: `#2A8C82`
-  - Warm White: `#F8FAF9`, Pale Mint: `#E8F4EF`, Pale Blue: `#EAF3F8`
-- **Iconography**: Lucide React
-- **State & Storage**: Unified context architecture with persistent local storage and initial seeds.
